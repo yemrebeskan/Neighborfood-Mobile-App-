@@ -1,4 +1,4 @@
-# Neighborfood-Mobile-App-
+# Neighborfood-Mobile-App
 The "Neighborfood" project embarked on an ambitious journey to redefine the way homemade meals are accessed and enjoyed by connecting culinary enthusiasts directly with local home cooks through an innovative mobile platform. From the onset, our vision was clear: to make diverse, convenient, and affordable dining options universally accessible, while providing economic opportunities for individuals in the community. It has developed with using microservice architecture, ionic react framework, Node.js and MongoDB(NoSQL). That application is our final thesis.
 
 - The project will be an Ionic React application.
